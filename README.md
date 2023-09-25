@@ -17,53 +17,42 @@ Virtual Assistant is a Python-based voice-controlled assistant designed to perfo
 
 Clone the repository to your local machine:
 
-bash
-   git clone https://github.com/divyangM1/virtualAssistant.git
+    git clone https://github.com/divyangM1/virtualAssistant.git
 
 
 Navigate to the project directory:
-
-bash
 
     cd Virtual-Assistant
 
 Install the required Python modules:
 
-bash
-
     pip install -r requirements.txt
 
 ## Usage
 
-    Run the Virtual Assistant script:
-
-    bash
+  Run the Virtual Assistant script:
 
     python main.py
 
-    Start speaking voice commands after the assistant's prompt.
+  Start speaking voice commands after the assistant's prompt.
 
 ## Contributing
 
 We welcome contributions to enhance the Virtual Assistant project. If you have ideas for additional features or improvements, please follow these steps:
 
-    Fork the repository on GitHub.
+  Fork the repository on GitHub.
 
-    Create a new branch with a descriptive name, for example:
+  Create a new branch with a descriptive name, for example:
 
-    bash
-
-git checkout -b feature/your-feature
+    git checkout -b feature/your-feature
 
 Implement your changes and commit them with clear commit messages that describe the purpose of each commit.
 
 Push your changes to your fork on GitHub:
 
-bash
-
     git push origin feature/your-feature
 
-    Open a pull request (PR) on the main repository. In the PR description, please provide a clear explanation of your changes and the problem they address. Be sure to reference any relevant issues in your description.
+Open a pull request (PR) on the main repository. In the PR description, please provide a clear explanation of your changes and the problem they address. Be sure to reference any relevant issues in your description.
 
 Thank you for contributing to the Virtual Assistant project! Your efforts will help improve the project for everyone.
 ## License
