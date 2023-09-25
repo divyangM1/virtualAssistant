@@ -20,11 +20,12 @@ Clone the repository to your local machine:
 bash
    git clone https://github.com/divyangM1/virtualAssistant.git
 
+
 Navigate to the project directory:
 
 bash
 
-cd Virtual-Assistant
+    cd Virtual-Assistant
 
 Install the required Python modules:
 
