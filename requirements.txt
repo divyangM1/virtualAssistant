@@ -1,0 +1,6 @@
+pyttsx3
+pypiwin32; sys_platform == 'win32'
+speech_recognition
+pyaudio
+selenium
+pyautogui
